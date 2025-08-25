@@ -1,14 +1,33 @@
-## datasets
-I Imported IRis dataset Using the  SKlearn.Dataset for Classifier Problem Statement
-For Regression Problem Statement I imported the Diabetes Dataset from the same library 
+# Decision Tree Project  
 
-## Methodolody
-1. Model Training(The Data camed clean)
-2. Hyper Parameter Tuning (Using Grid Search CV and Randamized Search CV)
-3. Model Evaluation (using,accuracy_score,confusion_matrix,classification_report)
+This project applies **Decision Trees** for both classification and regression problems.  
+The goal was to understand how decision trees are constructed and how they can be tuned for better performance.  
 
-## what I learned
-I learned about How the Decision Trees are made is derived How can we Train our model usinfg decision Tree
+---
 
-Thank you everyone
-Swanand patil
+## Dataset  
+- For **Classification**: Imported the **Iris dataset** using `sklearn.datasets`.  
+- For **Regression**: Imported the **Diabetes dataset** from the same library.  
+
+---
+
+## Methodology  
+1. Model Training (the data camed clean, so no preprocessing needed).  
+2. Hyperparameter Tuning (using Grid Search CV and Randamized Search CV).  
+3. Model Evaluation with:  
+   - accuracy_score  
+   - confusion_matrix  
+   - classification_report  
+
+---
+
+## What I Learned  
+- How Decision Trees are made and derived step by step.  
+- How to train models usinfg Decision Tree algorithm.  
+- The importance of tuning depth and other parameters to avoid overfitting.  
+
+---
+
+Thank you everyone 🙏  
+
+— Swanand Patil  
