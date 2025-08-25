@@ -28,6 +28,6 @@ The goal was to understand how decision trees are constructed and how they can b
 
 ---
 
-Thank you everyone 🙏  
+Thank you everyone
 
 — Swanand Patil  
